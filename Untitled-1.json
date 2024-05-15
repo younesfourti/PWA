@@ -1,0 +1,16 @@
+{
+"name":"[b]Application Name[/b]",
+"short_name":"[b]Short Name[/b]",
+"theme_color":"[b]Theme Color (RGBA or HEX)[/b]",
+"description":"[b]Description[/b]",
+"background_color":"[b]Background Color (RGBA or HEX)[/b]",
+"display":"standalone",
+"start_url":"[b]The URL for your application start page[/b]",
+"icons": [
+ {
+"src":"[b]URL for a PNG Image 512px x 512px[/b]",
+"sizes":"512x512",
+"type":"image/png"
+ }
+   ]
+}
